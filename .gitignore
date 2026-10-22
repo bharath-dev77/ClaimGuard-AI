@@ -1,0 +1,27 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Local Databases & Logs
+claims.db
+insurance_claims.db
+*.sqlite3
+*.log
+
+# Environment Variables
+.env
+
+# Streamlit Cache
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
